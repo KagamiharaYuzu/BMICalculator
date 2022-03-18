@@ -2,7 +2,8 @@
 #include <cmath>
 #include <string>
 using namespace std;
-/*Simple BMI Calculator wew
+/*
+* Simple BMI Calculator wew
 * BMI Range source: Furey, Edward "BMI Calculator (Body Mass Index)" at https://www.calculatorsoup.com/calculators/health/bmi-calculator.php from CalculatorSoup, https://www.calculatorsoup.com - Online Calculators
 * these are general ranges.
 */
